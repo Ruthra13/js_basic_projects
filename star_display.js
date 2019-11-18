@@ -1,3 +1,4 @@
+//print the stars as per given input
 <html>
 <head>
 <script>
